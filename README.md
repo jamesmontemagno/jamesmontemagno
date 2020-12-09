@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m James Montemagno
-- 🏢 I work at a small company called Microsoft help building the .NET Community
+- 🏢 I work at a small company called Microsoft help building and supporting the .NET Community
 - 🌱 I blog about coding & life: https://montemagno.com
 - 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://nintendodispatch.com
 - 🦜 I’m on Twitter https://twitter.com/jamesmontemagno
