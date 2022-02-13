@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m James Montemagno
-- 🏢 I work at a small company called Microsoft help building and supporting the .NET Community
+- 🏢 I work at Microsoft where I help build and support the developer communities
 - 🌱 I blog about coding & life: https://montemagno.com
-- 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://nintendodispatch.com
+- 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://www.dotnetmauipodcast.com/
 - 🦜 I’m on Twitter https://twitter.com/jamesmontemagno
-- 🎥 I make fun coding videos https://youtube.com/jamesmontemagno
-- 🔴 I live stream on Friday: https://twitch.tv/jamesmontemagno
+- 🎥 I make fun coding videos & stream at https://youtube.com/jamesmontemagno
 - 📫 How to reach me: https://www.montemagno.com/about/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love you
