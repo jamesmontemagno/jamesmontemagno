@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m James Montemagno
-- 🏢 I work at Microsoft where I help build and support the developer communities
+- 🏢 I work at Microsoft where I help build and support developer communities
 - 🌱 I blog about coding & life: https://montemagno.com
 - 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://www.dotnetmauipodcast.com/
 - 🦜 I’m on Twitter https://twitter.com/jamesmontemagno
