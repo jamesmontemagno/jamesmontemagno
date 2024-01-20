@@ -6,7 +6,7 @@
 - 🎙 I have several podcasts: https://mergeconflict.fm & https://www.dotnetmauipodcast.com/
 - 🦜 I’m on Twitter https://twitter.com/jamesmontemagno
 - 🐘 I'm on Mastodon https://mastodon.social/@jamesmontemagno
-- 🎥 I make fun coding videos & stream at https://youtube.com/jamesmontemagno
+- 🎥 I make fun coding videos & stream at [https://youtube.com/jamesmontemagno](https://www.youtube.com/jamesmontemagno?sub_confirmation=1)
 - 📫 How to reach me: https://www.montemagno.com/about/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love you
