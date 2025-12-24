@@ -11,5 +11,3 @@
 - 📫 How to reach me: https://www.montemagno.com/about/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love you
-
-![James's github stats](https://github-readme-stats.vercel.app/api?username=jamesmontemagno&show_icons=true)
