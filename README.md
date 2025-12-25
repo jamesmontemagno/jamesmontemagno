@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m James Montemagno
 - 🏢 I work at Microsoft where I help support developer communities
@@ -11,3 +11,12 @@
 - 📫 How to reach me: https://www.montemagno.com/about/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love you
+
+### Some Apps I Made
+* FeedbackFlow: https://feedbackflow.app
+* My Score Keeper: https://myscorekeeper.app
+* TrimTally: https://trimtally.app
+* My Fire Number: https://myfirenumber.com
+* My Stream Timer: http://mystreamtimer.apporeum.com
+* README Badges: https://mcpbadge.dev
+* Many more: https://www.refractored.com/apps
