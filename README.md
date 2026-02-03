@@ -19,4 +19,5 @@
 * My Fire Number: https://myfirenumber.com
 * My Stream Timer: http://mystreamtimer.apporeum.com
 * README Badges: https://mcpbadge.dev
+* PDF Diff: https://pdf-diff.com
 * Many more: https://www.refractored.com/apps
