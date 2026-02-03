@@ -4,7 +4,7 @@
 - 🏢 I work at Microsoft where I help support developer communities
 - 🎥 I make fun coding videos & stream at [https://youtube.com/jamesmontemagno](https://www.youtube.com/jamesmontemagno?sub_confirmation=1)
 - 🌱 I blog about coding & life: https://montemagno.com
-- 🎙 I have several podcasts: https://mergeconflict.fm, https://www.vscodepodcast.com, & https://www.dotnetmauipodcast.com/
+- 🎙 I have a few podcasts: https://mergeconflict.fm & https://www.vscodepodcast.com
 - 🦋 I'm on Bluesky: https://bsky.app/profile/james.montemagno.com
 - 🦜 I’m on X https://x.com/jamesmontemagno
 - 🐘 I'm on Mastodon https://mastodon.social/@jamesmontemagno
