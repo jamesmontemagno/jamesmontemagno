@@ -15,10 +15,12 @@
 ### Some Apps I Made
 * FeedbackFlow: https://feedbackflow.app
 * My Score Keeper: https://myscorekeeper.app
-* TrimTally: https://trimtally.app
+* Weigh - Private Tracking: https://trimtally.app
 * My Fire Number: https://myfirenumber.com
 * My Stream Timer: http://mystreamtimer.apporeum.com
 * README Badges: https://mcpbadge.dev
 * PDF Diff: https://pdf-diff.com
 * Tiny Clips: https://tinyclips.app
+* Mermaid Studio: https://mermaidstudio.app/
+* Local Morph: File Converter: https://localmorph.com/
 * Many more: https://www.refractored.com/apps
