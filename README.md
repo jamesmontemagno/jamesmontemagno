@@ -17,6 +17,7 @@
 * Tiny Clips: https://tinyclips.app
 * My Stream Timer: https://mystreamtimer.com
 * FeedbackFlow: https://feedbackflow.app
+* Resize Me with Burke: https://resizeme.dev
 * My Score Keeper: https://myscorekeeper.app
 * My Switch Library: https://myswitchlibrary.com
 * Weigh - Private Tracking: https://trimtally.app
