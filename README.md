@@ -16,6 +16,7 @@
 * My Cadence - Indoor Cycling app: https://mycadence.app
 * Tiny Clips: https://tinyclips.app
 * My Stream Timer: https://mystreamtimer.com
+* CaptionStack: http://captionstack.app
 * FeedbackFlow: https://feedbackflow.app
 * Resize Me with Burke: https://resizeme.dev
 * My Score Keeper: https://myscorekeeper.app
